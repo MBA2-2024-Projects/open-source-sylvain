@@ -1,0 +1,25 @@
+{
+    "name": "jokester-console",
+    "version": "1.0.0",
+    "description": "Displays a random joke in the console.",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/MBA2-2024-Projects/open-source-sylvain.git"
+    },
+    "keywords": [
+      "joke",
+      "console",
+      "fun"
+    ],
+    "author": "Sylvain Dendele <dndsylvain@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/MBA2-2024-Projects/open-source-sylvain/issues"
+    },
+    "homepage": "https://github.com/MBA2-2024-Projects/open-source-sylvain#readme"
+  }
