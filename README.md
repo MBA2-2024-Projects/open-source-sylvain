@@ -8,6 +8,9 @@
 
 To install this package, make sure you have Node.js and NPM installed on your machine, then run the following command in your terminal:
 
+Find npm here : [https://www.npmjs.com/package/jokester-console](https://www.npmjs.com/package/jokester-console)
+
+
 ```bash
 npm install jokester-console
 ```
